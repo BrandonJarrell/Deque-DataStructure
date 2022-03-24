@@ -6,7 +6,7 @@
 *    data keeping track of front and back to make it circular. This allows
 *    data to be used in order without shifting to maintain a front and back
 * Author
-*    Brandon Jarrell
+*    Brandon Jarrell, Michael George
 ************************************************************************/
 
 #ifndef DEQUE_H
