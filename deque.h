@@ -2,7 +2,9 @@
 * Header:
 *    Deque
 * Summary:
-*    This will contain the dynamic data
+*    Deque data structure. Insertion and Pop items off of both ends with
+*    data keeping track of front and back to make it circular. This allows
+*    data to be used in order without shifting to maintain a front and back
 * Author
 *    Brandon Jarrell
 ************************************************************************/
