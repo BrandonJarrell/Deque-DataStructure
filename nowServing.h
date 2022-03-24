@@ -5,7 +5,7 @@
  *    This creates a data type that can be used inside main for the deque
  *		It simulates help requests in a lab and has information on priority and time created
  * Author
- *    Brandon Jarrell
+ *    Brandon Jarrell, Michael George
  ************************************************************************/
 
 #ifndef NOW_SERVING_H
