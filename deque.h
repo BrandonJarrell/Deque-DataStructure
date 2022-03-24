@@ -20,8 +20,8 @@ namespace custom
 {
 
    /************************************************
-    * QUEUE
-    * A class that holds stuff
+    * DEQUE
+    * A data structure that can accept any data
     ***********************************************/
    template <class T>
    class deque
@@ -222,7 +222,7 @@ namespace custom
 
 
    /*******************************************
-    * clear() :: clears out the deque
+    * clear() clears out the deque
     *******************************************/
    template <class T>
    void deque <T> :: clear()
